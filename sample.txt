@@ -1,4 +1,4 @@
-Welcome
+
 This is a GIT test file1
 Second line for checking log2
 Added text on 23rd December,2017
